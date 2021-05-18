@@ -1,5 +1,5 @@
 # PowerStats
-Useful tools for descriptive statistics and more using simple python and scipy
+Useful tools for descriptive statistics and more using simple python and scipy. Created to automate tedious processes in Probability and Statistics for Engineers (2182203)
 
 - **DescriptiveStats:**
   - Tools to help analyze sample datapoints by reporting basic statistical values (e.g. sample s.d.) up to plotting graphs (e.g. stem-and-leaf) 
